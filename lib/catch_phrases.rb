@@ -6,3 +6,5 @@ end
 def toadstool
   puts 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
+
+def all_phrases(mario, toadstool, link)
